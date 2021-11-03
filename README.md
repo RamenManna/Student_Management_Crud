@@ -1,2 +1,2 @@
-# Student_Management_Crud
-Technology Used: Spring boot, JPA , Rest API, Hibernate, MySQL Database, Thymelyf engine, Bootstrap 4 for template design
+# Student Management CRUD
+##Technology Used: JAVA 8, Spring boot, Spring Data JPA(Hibernate), Spring MVC ,Rest API, MySQL Database, Thymelyf engine, Bootstrap 4 for template design in HTML
